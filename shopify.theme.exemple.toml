@@ -1,0 +1,4 @@
+[environments.exemple]
+theme = "THEMEID"
+store = "yourstore.myshopify.com"
+password  = "your theme password"
