@@ -32,13 +32,11 @@ Le projet est organisé comme suit :
 
 1. **Téléchargement du dépot GitHub**  
    Ouvrir un terminal et naviguer vers le dossier désiré. Puis lancer les commandes suivantes :
-
-   - git clone https://github.com/melenos-dev/test-dev-amour-web.git
+   - git clone https://github.com/spirit-developpement/test-dev-amour-web.git
    - cd test-dev-amour-web
 
 2. **Lancer le thème en mode développement**
    Un mot de passe a été créé pour vous via Theme Access, et les identifiants se trouvent dans shopify.theme.toml. Ainsi, pour créér votre environnement local, il vous suffit de lancer cette commande :
-
    - shopify theme dev --environment amourweb
    - En cas de besoin, le mot de passe de la boutique est : amourduweb
 
